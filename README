@@ -1,1 +1,13 @@
 played around with wicket and sliders
+=====================================
+
+* checkout the project
+* make sure you have a jdk (1.6+) and maven installed
+* change into the project directory
+* execute "mvn clean jetty:run" to start the application
+* point your browser to http://localhost:8080/pte to see the
+  project engineering triangle (http://en.wikipedia.org/wiki/Project_triangle)
+  or go to http://localhost:8080/pte/SliderDemo to see how a slider
+  and a text field are tied together
+* have fun
+
